@@ -1,0 +1,24 @@
+#container{
+    text-align: left; 
+    border-radius: 1em;
+    background-color: lightblue;
+    font-size: 20px;
+    width: 1000px;
+}
+
+#überschrift{
+    color: white;
+    margin-left: 20px;
+}
+#links{
+    text-align: center;
+    
+}
+
+#a{
+    background-color: green;
+    
+}
+#b{
+    background-image: url(Bild.avif);
+}
